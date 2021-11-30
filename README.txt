@@ -11,32 +11,29 @@ algorithm (Optical flow. OpenCV. (n.d.). Retrieved November 7, 2021, from https:
 - Steps to run KLTOpticalFlow_Gray:
 
 1. Open the Code:Blocks IDE
-2. Go to File --> Open...
-3. Select KLTOpticalFlow_Gray.cbp located inside the extracted zipped folder.
+2. Go to File --> Open KLTOpticalFlow_Gray.cbp file.
 Note: "KLT_Gray_Arrow.cbp" is the same code but it outputs the optical flow using arrows.
 Note: "slow_traffic_small.mp4" was also used to compare results. To use it, change the VideoCapture object name in the code.
-4. Press the "build and run" button.
-5. A console screen and a windows will appear showing the optical flow obtained from the pyramid implementation of the KLT algorithm.
-6. Exit the program by pressing ESC.
+3. Press the "build and run" button.
+4. A console screen and a windows will appear showing the optical flow obtained from the pyramid implementation of the KLT algorithm.
+5. Exit the program by pressing ESC.
 
 - Steps to run FAST_FREAK:
 
 1. Open the Code:Blocks IDE
-2. Go to File --> Open...
-3. Select FAST_FREAK.cbp located inside the extracted zipped folder.
+2. Go to File --> Open FAST_FREAK.cbp file.
 Note: "slow_traffic_small.mp4" was also used to compare results. To use it, change the VideoCapture object name in the code.
-4. Press the "build and run" button.
-5. A console screen and a windows will appear showing the optical flow obtained from using FAST + FREAK algorithms.
-6. Exit the program by pressing ESC.
+3. Press the "build and run" button.
+4. A console screen and a windows will appear showing the optical flow obtained from using FAST + FREAK algorithms.
+5. Exit the program by pressing ESC.
 
 - Steps to run FAST_LUCID:
 
 1. Open the Code:Blocks IDE
-2. Go to File --> Open...
-3. Select FAST_LUCID.cbp located inside the extracted zipped folder.
+2. Go to File --> Open FAST_LUCID.cbp file.
 Note: "slow_traffic_small.mp4" was also used to compare results. To use it, change the VideoCapture object name in the code.
-4. Press the "build and run" button.
-5. A console screen and a windows will appear showing the optical flow obtained from using FAST + LUCID algorithms.
-6. Exit the program by pressing ESC.
+3. Press the "build and run" button.
+4. A console screen and a windows will appear showing the optical flow obtained from using FAST + LUCID algorithms.
+5. Exit the program by pressing ESC.
 
 
